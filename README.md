@@ -1,4 +1,4 @@
-<h1>Patiend Survival Prediction</h1>
+<h1>Patient Survival Prediction</h1>
 <h2>Deep Learning Project</h2>
 <hr>
 <h2>Description:</h2>
