@@ -12,6 +12,8 @@
 <h2>Project structure</h2>
 <h3>Project 4</h3>
 <ul>
+    <li>assets</li>
+        <p><a href="../assets/Data Dictionary.xlsx">Dictionary</a></p>
     <li>datasets</li>
         <p>Dataset.csv : original dataset</p>
     <li>notebooks</li>
