@@ -13,11 +13,13 @@
 <h3>Project 4</h3>
 <ul>
     <li>assets</li>
-        <p><a href="../assets/Data Dictionary.xlsx">Dictionary</a></p>
+        <p><a href="../assets/Data_Dictionary.xlsx">Data Dictionary</a></p>
     <li>datasets</li>
         <p>Dataset.csv : original dataset</p>
     <li>notebooks</li>
         <p>1. ps_prediction_EDA.ipynb</p>
+        <p>3. ps_prediction_preprocessing.ipynb</p>
+        <p>1. ps_prediction_modelling.ipynb</p>
     <li>models</li>
         <p>model : </p>
     <li>deployment</li>
