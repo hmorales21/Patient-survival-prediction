@@ -22,8 +22,6 @@
         <p>1. ps_prediction_modelling.ipynb</p>
     <li>models</li>
         <p>model : </p>
-    <li>deployment</li>
-    <li>Streamlit application</li>
 </ul>
 <hr>
 <p>Horacio Morales González
