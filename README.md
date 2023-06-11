@@ -18,10 +18,11 @@
         <p>Dataset.csv : original dataset</p>
     <li>notebooks</li>
         <p>1. ps_prediction_EDA.ipynb</p>
-        <p>3. ps_prediction_preprocessing.ipynb</p>
-        <p>1. ps_prediction_modelling.ipynb</p>
+        <p>2. ps_prediction_preprocessing.ipynb</p>
+        <p>3. ps_prediction_modelling.ipynb</p>
+        <p>4. ps_prediction_explainable.ipynb</p>
     <li>models</li>
-        <p>model : </p>
+        <p>model : ps_model.joblib</p>
 </ul>
 <hr>
 <p>Horacio Morales González
